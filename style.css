@@ -1,0 +1,157 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 147px;
+}
+.all-conteiner{
+    width: 625px;
+    height: 625px;
+   background-image: url(https://eskipaper.com/images/yellow-abstract-8.jpg);
+}
+.coneiner-1{
+    margin-top: 82px;
+    margin-left: 82px;
+    width: 460px;
+    height: 460px;
+    background-image: url(https://st.overclockers.ru/images/lab/2009/05/08/monitors/78-asus_mk241h_white_big.jpg);
+}
+.logo-mini{
+    display: flex;
+    justify-content: end;
+   
+}
+.close{
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+
+}
+.all-text{
+   
+    margin-left: 100px;
+}
+.zagolovok{
+    font-size: 38px;
+}
+
+.all-button{
+    margin-top: -33px;
+    margin-left: 22px;
+
+}
+
+.button1{
+    color: white;
+    text-decoration: none;
+}
+.button2{
+    color: white;
+  
+}
+
+.parol-email{
+    margin-top: 42px;
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 19px;
+}
+.icon-1{
+     width: 55px;
+    height: 58px;
+    background: rgb(247, 44, 44);
+}
+.img-1{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+}
+.input-email{
+    border: none;
+     background: white;
+      height: 56px;
+    width: 290px;
+    font-size: 20px;
+ padding-left: 30px;
+}
+.parol{
+    display: flex;
+    justify-content: center;
+}
+.icon-2{
+    width: 55px;
+    height: 58px;
+    background: rgb(247, 44, 44);
+}
+.img-2{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+}
+.input-parol{
+    border: none;
+     height: 56px;
+    width: 235px;
+    font-size: 20px;
+    padding-left: 30px;
+     background: white;
+}
+.button{
+    width: 55px;
+    height: 58px;
+    border: none;
+    background: white;
+}
+.img-3{
+    width: 45px;
+    height: 46px;
+  cursor: pointer;
+}
+
+.registration-info{
+    margin-top: 40px;
+  margin-left: 41px;
+    width: 375px;
+    height: 58px;
+}
+.sign-in{
+    width: 170px;
+    height: 58px;
+    border: none;
+    background: rgb(247, 44, 44);
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.info{
+    float: right;
+    width: 125px;
+}
+.icon-3{
+   float: left;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+.remember{
+    margin-top: 5px;
+    float: right;
+    font-size: 15px;
+}
+.all-forgot{
+    float: right;
+    margin-top: -18px;
+}
+.forgot{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+.mini-text{
+    color: yellow;
+    margin-top: 35px;
+    margin-left: 220px;
+}
